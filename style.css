@@ -83,7 +83,7 @@
     position: absolute;
     width: 357px;
     height: 425px;
-    left: 10px;
+    left: 12px;
     top: 80px;
 
     background: #FFFFFF;
@@ -264,7 +264,7 @@
 }
 .block-line {
     position: absolute;
-    width: 379px;
+    width: 100%;
     height: 0px;
     left: 1px;
     top: 609px;
