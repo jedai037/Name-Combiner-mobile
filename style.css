@@ -436,10 +436,11 @@ body {
     height: 26.62px;
     left: 73.63px;
     top: 793.5px;
+    opacity: 0.9;
 }
 .social-f:hover {
-    background-color: #6188FF;
-    border-radius: 30%;
+    content: url('images/f-active.png');
+    opacity: 1;
 }
 .social-ino {
     position: absolute;
@@ -447,10 +448,11 @@ body {
     height: 24.12px;
     left: 142.11px;
     top: 793.5px;
+    opacity: 0.9;
 }
 .social-ino:hover {
-    background-color: #6188FF;
-    border-radius: 30%;
+    content: url('images/ino-active.png');
+    opacity: 1;
 }
 .social-twi {
     position: absolute;
@@ -465,10 +467,11 @@ body {
     height: 23.16px;
     left: 304.22px;
     top: 793.5px;
+    opacity: 0.9;
 }
 .social-t:hover {
-    background-color: #6188FF;
-    border-radius: 30%;
+    content: url('images/t-active.png');
+    opacity: 1;
 }
 .footer {
     position: absolute;
